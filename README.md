@@ -11,3 +11,10 @@
       - [Install instructions](https://docs.docker.com/engine/install/ubuntu/)
       - ["Package docker-ce has no installation candidate"](https://askubuntu.com/questions/1030179/package-docker-ce-has-no-installation-candidate-in-18-04)
       - [Permission denied](https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket)
+
+- SSH
+  - [SSH connection refused](https://phoenixnap.com/kb/ssh-connection-refused)
+  - [How to use SSH](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows#htoc-how-to-install-an-openssh-server)
+
+- Multipass
+  - [Launching Ubuntu instances with Multipass](https://www.youtube.com/watch?v=Z91l6ZdQjhI)
