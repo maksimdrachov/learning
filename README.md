@@ -18,3 +18,10 @@
 
 - Multipass
   - [Launching Ubuntu instances with Multipass](https://www.youtube.com/watch?v=Z91l6ZdQjhI)
+
+- Google Tech Dev Guid
+  - [Data Structures & Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+
+- GeeksforGeeks
+  - [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+  - [Count set bits in an integer](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
