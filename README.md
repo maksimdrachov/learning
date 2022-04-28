@@ -25,3 +25,11 @@
 - GeeksforGeeks
   - [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
   - [Count set bits in an integer](https://www.geeksforgeeks.org/count-set-bits-in-an-integer/)
+
+- [sysrepo](https://netopeer.liberouter.org/doc/sysrepo/master/html/index.html#about)
+  - [part 1](https://www.youtube.com/watch?v=AdIcYrz3AjU)
+  - [part 2](https://www.youtube.com/watch?v=YZkt2mXVVrI) 
+
+- [Visual Studio Code Blogs](https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers)
+  - [Increase productivity with containers](https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers)
+  - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
