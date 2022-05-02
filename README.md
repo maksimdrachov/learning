@@ -36,6 +36,12 @@
   - [Increase productivity with containers](https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers)
   - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
 
+- [Atlassian: Git](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+- [Agile workflow](https://www.atlassian.com/agile/project-management/workflow)
+
+- [Kubernetes vs Docker](https://www.atlassian.com/microservices/microservices-architecture/kubernetes-vs-docker)
+
 ## Bitcoin
 
 - [ ] setup bitcoin node
